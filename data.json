@@ -1,0 +1,58 @@
+{
+  "pokemons": [
+    {
+      "id": "1",
+      "name": "bulbasaur",
+      "Type": "Grass",
+      "level": 12
+    },
+    {
+      "id": "2",
+      "name": "ivysaur",
+      "Type": "Grass",
+      "level": 22
+    },
+    {
+      "id": "3",
+      "name": "venusaur",
+      "Type": "Grass",
+      "level": 36
+    },
+    {
+      "id": "4",
+      "name": "charmander",
+      "Type": "Fire",
+      "level": 12
+    },
+    {
+      "id": "5",
+      "name": "charmeleon",
+      "Type": "Fire",
+      "level": 22
+    },
+    {
+      "id": "6",
+      "name": "charizrd",
+      "Type": "Fire",
+      "level": 36
+    },
+    {
+      "id": "7",
+      "name": "squirtle",
+      "Type": "Water",
+      "level": 12
+    },
+    {
+      "id": "8",
+      "name": "wartortle",
+      "Type": "Water",
+      "level": 22
+    },
+    {
+      "id": "9",
+      "name": "blastoise",
+      "Type": "Water",
+      "level": 36
+    }
+  ]
+}
